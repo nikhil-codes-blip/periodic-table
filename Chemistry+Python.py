@@ -5,8 +5,8 @@ from time import sleep
 try:
     # Print heading
     print("\n\t\t\t---  :Periodic Table: ---")
-    print("\t\t\t      =======================")
-    print("\t\t\t\t\t---Created By Priyanshu Singh")
+    print("\t\t\t =======================")
+    print("\t\t\t\t\t\t\t\t---Created By Priyanshu Singh")
     # Global indentifiers used in program
     AtNo = ""
     atno = ""
