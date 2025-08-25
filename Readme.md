@@ -34,6 +34,7 @@ This program was created for learning purposes by **Priyanshu Singh**. 🎓
 ```bash
 python periodic_table.py
 
+
 Example (by Atomic Number)
 
 1. Get Electronic Configuration by Atomic No.
@@ -51,8 +52,30 @@ Atomic Symbol : O
 Electronic Configurations : --
 1s 2 , 2s 2 , 2p 4
 Atomic No = 8
+
+## SCREENSHOTS
+
+
 📂 Project Structure
 📦 PeriodicTable
  ┣ 📜 periodic_table.py   # Main CLI script
  ┣ 📜 README.md           # Project Documentation
  
+🚀 Future Improvements
+
+-- Add periodic table visualization in terminal
+
+-- Show more element properties (Atomic Mass, Group, Period, etc.)
+
+-- Export results to JSON/CSV
+
+
+
+
+👨‍💻 Author
+Priyanshu Singh
+
+
+
+📜 License
+This project is open-source under the MIT License.
